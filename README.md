@@ -1,12 +1,15 @@
 # CarJS
 AUTOR: Arkadiusz Noster, 298890
 
+Film z nagraniem: https://youtu.be/ZihKQfr1LIU
+
 Projekt tworzy scenę z poruszającym się po okręgu samochodem.
 
 W celu uruchomienia należy użyć następującej komendy w korzeniu projektu:
 ```bash
 npm run start
 ```
+następnie otworzyc w przeglądarce http://localhost:8080
 Projekt spełnia wszystkie wymagania techniczne jeśli chodzi o funkcjonalności. 
 Dostęp do zmian kamery, cieniowania i kierunku świateł samochodu znajduje się w panelu w prawym górnym rogu i jest intuicyjny.
 
