@@ -1,17 +1,14 @@
 # CarJS
-AUTOR: Arkadiusz Noster, 298890
+The final project on my journey in Computer Graphics subject at the university.
+This one should be the most advanced. And it looks to be, but the reality is that I just glued together some parts from tree.js examples so that it fulfills project requirements. 
 
-Film z nagraniem: https://youtu.be/ZihKQfr1LIU
+Note, I'm not very good with JS. Nevertheless, I've decided to publish, since it looks nice and I had fun doing it.
 
-Projekt tworzy scenę z poruszającym się po okręgu samochodem.
+The video with recording of the program working: https://youtu.be/ZihKQfr1LIU
 
-W celu uruchomienia należy użyć następującej komendy w korzeniu projektu:
+Run: 
 ```bash
+npm install
 npm run start
 ```
-następnie otworzyc w przeglądarce http://localhost:8080
-Projekt spełnia wszystkie wymagania techniczne jeśli chodzi o funkcjonalności. 
-Dostęp do zmian kamery, cieniowania i kierunku świateł samochodu znajduje się w panelu w prawym górnym rogu i jest intuicyjny.
-
- Projekt został stworzony przede wszystkim z użyciem biblioteki threeJS, która z kolei korzysta z WebGL. Shadery są więc widoczne w zależnościach, nie są jednak napisane ręcznie, gdyż prawdopodobnie byłoby to proste przekopiowanie treści. 
-
+then open in browser: http://localhost:8080
